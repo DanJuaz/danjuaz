@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Julio Daniel Azurduy</h1>
-<h3 align="center">A full stack developer from Spain</h3>
+<h3 align="center">A full stack developer and Data Analytics from Spain</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danjuaz&label=Profile%20views&color=0e75b6&style=flat" alt="danjuaz" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=danjuaz" alt="danjuaz" /></a> </p>
 
-- 🔭 I’m currently working on [LKS NEXT like data analytics](https://www.lksnext.com/es/)
+- 🔭 I’m currently avaible to work.
 
 - 🌱 I’m currently learning **PySpark, NodeJS and Spring**
 
